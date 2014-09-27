@@ -1,6 +1,6 @@
 #load_screen
 {
-    position: relative;
+    position: fixed;
     z-index: 1001;
     top: 0;
 
